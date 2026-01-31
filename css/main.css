@@ -155,7 +155,7 @@ textarea {
   box-sizing: border-box;
 }
 
-input[type=submit] {
+input[type="submit"] {
   background: var(--primary-color);
   color: white;
   font-weight: bold;
@@ -210,7 +210,7 @@ nav li a:hover {
 }
 
 @media only screen and (min-width: 768px) {
-  .media-menu,
+  .mobile-menu,
   .mobile-menu-exit {
     display: none;
   }
@@ -338,4 +338,4 @@ nav li a:hover {
     left: 0;
     top: -4em;
   }
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
